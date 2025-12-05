@@ -16,6 +16,7 @@ This Power BI dashboard provides a comprehensive analysis of Ola cab booking dat
     Cancellation Reasons
     Customer Ratings Overview  
 ## Dashboard recording :- 
+<img width="951" height="531" alt="Ola Dashboard Screen Shot" src="https://github.com/user-attachments/assets/6551c628-2702-493d-b2f1-32eda53d9c25" />
 ## Tools & Technologies :- 
 * Power BI (Data modeling & visualization)
 * DAX for calculating KPIs & performance metrics
