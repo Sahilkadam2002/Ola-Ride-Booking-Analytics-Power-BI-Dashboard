@@ -14,7 +14,8 @@ This Power BI dashboard provides a comprehensive analysis of Ola cab booking dat
     Vehicle Type Performance
     Revenue Insights
     Cancellation Reasons
-    Customer Ratings Overview 
+    Customer Ratings Overview  
+## Dashboard recording :- 
 ## Tools & Technologies :- 
 * Power BI (Data modeling & visualization)
 * DAX for calculating KPIs & performance metrics
